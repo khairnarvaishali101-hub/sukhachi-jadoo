@@ -1,0 +1,101 @@
+{
+  "nav": {
+    "home": "Home",
+    "watch": "Watch",
+    "media": "Media",
+    "about": "About",
+    "castCrew": "Cast & Crew",
+    "contact": "Contact"
+  },
+  "home": {
+    "label": "A short film",
+    "title": "Sukhachi Jadoo",
+    "subtitle": "सुखाची जादू",
+    "tagline": "The Magic of Happiness",
+    "watchBtn": "Watch the Film",
+    "storyLabel": "The Story",
+    "synopsis": "A heartfelt short film about the small, everyday moments where happiness reveals itself — quiet kitchens, shared laughter, and the unexpected magic woven through ordinary days.",
+    "details": {
+      "year": "Year",
+      "yearValue": "2024",
+      "language": "Language",
+      "languageValue": "Marathi",
+      "format": "Format",
+      "formatValue": "Short Film",
+      "premiered": "Premiered",
+      "premieredValue": "Dec 2024"
+    },
+    "posterLabel": "The Poster",
+    "stillsLabel": "Stills from the Film",
+    "finalCta": "Experience the magic for yourself."
+  },
+  "watch": {
+    "label": "Now playing",
+    "title": "Sukhachi Jadoo",
+    "subtitle": "सुखाची जादू — The Magic of Happiness",
+    "closing": "Thank you for watching. If this film moved you, please share it with someone who needs a little magic today."
+  },
+  "media": {
+    "label": "More from the film",
+    "title": "Media",
+    "subtitle": "Teaser, songs, and moments from the journey",
+    "categories": {
+      "teaser": "Teaser",
+      "redCarpet": "Red Carpet",
+      "songs": "Songs"
+    }
+  },
+  "about": {
+    "label": "About",
+    "title": "About the Film",
+    "subtitle": "सुखाची जादू — The Magic of Happiness",
+    "storyHeading": "The Story",
+    "storyP1": "Sukhachi Jadoo is a Marathi short film that finds the extraordinary hidden inside the ordinary. It follows the small, easily-missed moments of a single day — a shared meal, a chance kindness, a familiar song heard in a new way — and asks us to notice them.",
+    "storyP2": "The film premiered in December 2024 and has been carried forward by audiences who saw something of their own lives in it.",
+    "directorHeading": "Director's Note",
+    "directorQuote": "We made Sukhachi Jadoo because happiness, in real life, almost never arrives loudly. It is quiet, easy to miss, and we wanted to slow down long enough to honour that.",
+    "directorAttr": "— The Director",
+    "themesHeading": "Themes",
+    "theme1": "The quiet magic of everyday life",
+    "theme2": "Family, memory, and inherited joy",
+    "theme3": "The Marathi cultural landscape — homes, kitchens, conversations",
+    "theme4": "Noticing as a small act of love"
+  },
+  "castCrew": {
+    "label": "The People",
+    "title": "Cast & Crew",
+    "subtitle": "The hands and hearts behind Sukhachi Jadoo",
+    "castHeading": "Cast",
+    "crewHeading": "Crew",
+    "roles": {
+      "Lead": "Lead",
+      "Husband": "Husband",
+      "Son": "Son",
+      "Father": "Father",
+      "Mother": "Mother",
+      "Supporting": "Supporting",
+      "Director": "Director",
+      "Writer": "Writer",
+      "Producer": "Producer",
+      "Cinematographer": "Cinematographer",
+      "Editor": "Editor",
+      "Music": "Music"
+    }
+  },
+  "footer": {
+    "tagline": "A short Marathi film about the magic hidden in everyday moments.",
+    "exploreLabel": "Explore",
+    "creditsLabel": "Credits",
+    "madeWith": "Made with love in Maharashtra. Premiered December 2024.",
+    "rights": "All rights reserved."
+  },
+  "contact": {
+    "label": "Get in Touch",
+    "title": "Contact",
+    "subtitle": "We'd love to hear from you",
+    "intro": "For festival inquiries, press, audience feedback, or general queries — we welcome your message.",
+    "emailLabel": "Email Us",
+    "emailNote": "We typically respond within 2-3 days.",
+    "followLabel": "Follow the Journey"
+  }
+}
