@@ -3,9 +3,9 @@ import { useTranslation } from 'react-i18next'
 function Contact() {
   const { t } = useTranslation()
 
-  const email = "shaktishali005@gmail.com"
-  const instagram = "https://instagram.com/your_handle"
-  const youtube = "https://youtube.com/@your_channel"
+  // ↓ Replace with your real details ↓
+  const email = "sukhachijadoo@example.com"
+  const youtube = "https://www.youtube.com/@ShaktishaliS"
 
   return (
     <main className="min-h-[calc(100vh-4rem)] px-6 py-20">
@@ -46,14 +46,6 @@ function Contact() {
             {t('contact.followLabel')}
           </p>
           <div className="flex flex-wrap items-center justify-center gap-4">
-            <a
-              href={instagram}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="bg-indigo-900 hover:bg-indigo-800 text-violet-50 px-6 py-2.5 rounded-full transition text-sm font-medium"
-            >
-              Instagram
-            </a>
             <a
               href={youtube}
               target="_blank"
